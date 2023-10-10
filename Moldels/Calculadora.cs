@@ -56,7 +56,7 @@ namespace exemplosFundamentos.Calculadora
 
         public void RaizQuadrada(double x){
             double raiz = Math.Sqrt(x);
-            Console.WriteLine($"Raiz quadrada de {x} = {raiz} ");
+            Console.WriteLine($"Raiz quadrada de {x} =  {raiz} ");
         }
         
 
